@@ -3,6 +3,6 @@ kind: ConfigMap
 metadata:
   name: pod-config
 data:
-- course: "DevSecOps with AWS"
+  course: "DevSecOps with AWS"
   duration: "120Hrs"
   trainer: "sivakumar"
